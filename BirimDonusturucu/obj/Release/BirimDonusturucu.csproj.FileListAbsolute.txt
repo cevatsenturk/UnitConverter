@@ -1,0 +1,26 @@
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.dll
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.pdb
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Release\AppManifest.xaml
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.xap
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Release\App.g.i.cs
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Release\MainPage.g.i.cs
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.g.resources
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.dll
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.pdb
+C:\Users\Melahat\Documents\Visual Studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Release\XapCacheFile.xml
+D:\desktop\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.dll
+D:\desktop\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.pdb
+D:\desktop\BirimDonusturucu\BirimDonusturucu\Bin\Release\AppManifest.xaml
+D:\desktop\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.xap
+D:\desktop\BirimDonusturucu\BirimDonusturucu\Bin\Release\Microsoft.Phone.Controls.dll
+D:\desktop\BirimDonusturucu\BirimDonusturucu\Bin\Release\Microsoft.Phone.Controls.xml
+D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\ResolveAssemblyReference.cache
+D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\App.g.i.cs
+D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\MainPage.g.i.cs
+D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.g.resources
+D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.dll
+D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.pdb
+D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\XapCacheFile.xml

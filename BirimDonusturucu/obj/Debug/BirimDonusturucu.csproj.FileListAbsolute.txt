@@ -1,0 +1,15 @@
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\ApplicationIcon.png
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\Background.png
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\BirimDonusturucu.dll
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\BirimDonusturucu.pdb
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\AppManifest.xaml
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\BirimDonusturucu.xap
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Debug\ResolveAssemblyReference.cache
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Debug\App.g.i.cs
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Debug\MainPage.g.i.cs
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Debug\BirimDonusturucu.g.resources
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Debug\BirimDonusturucu.dll
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Debug\BirimDonusturucu.pdb
+c:\users\melahat\documents\visual studio 2010\Projects\BirimDonusturucu\BirimDonusturucu\obj\Debug\XapCacheFile.xml
