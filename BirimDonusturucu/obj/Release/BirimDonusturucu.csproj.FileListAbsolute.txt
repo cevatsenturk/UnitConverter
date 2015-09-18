@@ -24,3 +24,16 @@ D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.g.reso
 D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.dll
 D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.pdb
 D:\desktop\BirimDonusturucu\BirimDonusturucu\obj\Release\XapCacheFile.xml
+D:\projeler\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.dll
+D:\projeler\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu.pdb
+D:\projeler\BirimDonusturucu\BirimDonusturucu\Bin\Release\AppManifest.xaml
+D:\projeler\BirimDonusturucu\BirimDonusturucu\Bin\Release\Properties\WMAppManifest.xml
+D:\projeler\BirimDonusturucu\BirimDonusturucu\Bin\Release\BirimDonusturucu_Release_AnyCPU.xap
+D:\projeler\BirimDonusturucu\BirimDonusturucu\Bin\Release\Microsoft.Phone.Controls.dll
+D:\projeler\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.csprojResolveAssemblyReference.cache
+D:\projeler\BirimDonusturucu\BirimDonusturucu\obj\Release\App.g.cs
+D:\projeler\BirimDonusturucu\BirimDonusturucu\obj\Release\MainPage.g.cs
+D:\projeler\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.g.resources
+D:\projeler\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.dll
+D:\projeler\BirimDonusturucu\BirimDonusturucu\obj\Release\BirimDonusturucu.pdb
+D:\projeler\BirimDonusturucu\BirimDonusturucu\obj\Release\XapCacheFile.xml

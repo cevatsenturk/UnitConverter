@@ -1,0 +1,90 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="BirimDonusturucu.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768" 
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <controls:Pivot Title="BİRİM DÖNÜŞTÜCÜ">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="Ağırlık">
+                <Grid>
+                    <TextBox Name="txtWeightFrom" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" TextChanged="txtWeightFrom_TextChanged"></TextBox>
+                    <TextBox Name="txtWeightTo" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" IsReadOnly="True"></TextBox>
+                    <ListBox x:Name="lstWeightFrom" Margin="10,220,240,0" ItemsSource="{Binding Items}" SelectionChanged="lstWeightthFrom_SelectionChanged">
+                    </ListBox>
+                    <ListBox x:Name="lstWeightTo" Margin="250,220,10,0" ItemsSource="{Binding Items}" SelectionChanged="lstWeightTo_SelectionChanged">
+                    </ListBox>
+                    <Image Height="116" HorizontalAlignment="Left" Margin="172,24,0,0" Name="image1" Stretch="None" VerticalAlignment="Top" Width="139" Source="/BirimDonusturucu;component/Images/1350858277_weight.png" />
+                </Grid>
+            </controls:PivotItem>
+ 
+            <!--Pivot item two-->
+            <controls:PivotItem Header="Uzunluk"> 
+                <!--Triple line list no text wrapping-->
+                <Grid>
+                    <TextBox Name="txtLengthFrom" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" TextChanged="txtLengthFrom_TextChanged"></TextBox>
+                    <TextBox Name="txtLengthTo" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" IsReadOnly="True"></TextBox>
+                    <ListBox x:Name="lstLengthFrom" Margin="10,220,240,0" ItemsSource="{Binding Items}" SelectionChanged="lstLengthFrom_SelectionChanged">
+                    </ListBox>
+                    <ListBox x:Name="lstLengthTo" Margin="250,220,10,0" ItemsSource="{Binding Items}" SelectionChanged="lstLengthTo_SelectionChanged">
+                    </ListBox>
+                    <Image Height="129" HorizontalAlignment="Left" Margin="164,11,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="128" Source="/BirimDonusturucu;component/Images/1350858207_measure.png" />
+                </Grid>
+            </controls:PivotItem>
+
+            <!--Pivot item two-->
+            <controls:PivotItem Header="Sıcaklık">
+                <!--Triple line list no text wrapping-->
+                <Grid>
+                    <TextBox Name="txtTemperatureFrom" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" TextChanged="txtTemperatureFrom_TextChanged"></TextBox>
+                    <TextBox Name="txtTemperatureTo" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" IsReadOnly="True"></TextBox>
+                    <ListBox x:Name="lstTemperatureFrom" Margin="10,220,240,0" ItemsSource="{Binding Items}" SelectionChanged="lstTemperatureFrom_SelectionChanged">
+                    </ListBox>
+                    <ListBox x:Name="lstTemperatureTo" Margin="250,220,10,0" ItemsSource="{Binding Items}" SelectionChanged="lstTemperatureTo_SelectionChanged">
+                    </ListBox>
+                    <Image Height="129" HorizontalAlignment="Left" Margin="164,11,0,0" Name="image3" Stretch="Fill" VerticalAlignment="Top" Width="128" Source="/BirimDonusturucu;component/Images/1350858324_Thermometer_Snowflake.png" />
+                </Grid>
+            </controls:PivotItem>
+
+            <controls:PivotItem Header="Hafıza">
+                <!--Triple line list no text wrapping-->
+                <Grid>
+                    <TextBox Name="txtMemoryFrom" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" TextChanged="txtMemoryFrom_TextChanged"></TextBox>
+                    <TextBox Name="txtMemoryTo" Width="220" Height="80" Margin="0,140,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" IsReadOnly="True"></TextBox>
+                    <ListBox x:Name="lstMemoryFrom" Margin="10,220,240,0" ItemsSource="{Binding Items}" SelectionChanged="lstMemoryFrom_SelectionChanged">
+                    </ListBox>
+                    <ListBox x:Name="lstMemoryTo" Margin="250,220,10,0" ItemsSource="{Binding Items}" SelectionChanged="lstMemoryTo_SelectionChanged">
+                    </ListBox>
+                    <Image Height="129" HorizontalAlignment="Left" Margin="164,11,0,0" Name="image4" Stretch="Fill" VerticalAlignment="Top" Width="128" Source="/BirimDonusturucu;component/Images/1350895938_desktop_computer.png" />
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
